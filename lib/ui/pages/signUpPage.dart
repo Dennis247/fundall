@@ -83,19 +83,17 @@ class _SignUpPageState extends State<SignUpPage> {
                           Row(
                             children: <Widget>[
                               Expanded(
-                                  child: AppTextInputWIdget(
+                                  child: AppTextInputWIdget2(
                                 prefixIcon: FontAwesomeIcons.solidUser,
                                 labelText: "First name",
-                                obscureText: false,
                               )),
                               SizedBox(
                                 width: screenSize.width * 0.08,
                               ),
                               Expanded(
-                                  child: AppTextInputWIdget(
+                                  child: AppTextInputWIdget2(
                                 prefixIcon: FontAwesomeIcons.solidUser,
                                 labelText: "Last Name",
-                                obscureText: false,
                               )),
                             ],
                           ),

@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:mobile_mini_project/ui/pages/loginPage.dart';
 import 'package:mobile_mini_project/ui/pages/signUpPage.dart';
 import 'package:mobile_mini_project/ui/widgets/backgroundWidget.dart';
 import 'package:mobile_mini_project/utils/appStyles.dart';

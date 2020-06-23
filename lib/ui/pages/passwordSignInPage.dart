@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
 import 'package:mobile_mini_project/ui/pages/welcomeHomePage.dart';
 import 'package:mobile_mini_project/ui/widgets/appButtonWidget.dart';
 import 'package:mobile_mini_project/ui/widgets/appInputWidget.dart';
@@ -10,7 +10,6 @@ import 'package:mobile_mini_project/utils/constants.dart';
 
 class PasswordSignInPage extends StatefulWidget {
   static final routeName = "password-signIn-Page";
-  bool _isVisible = false;
   @override
   _PasswordSignInPageState createState() => _PasswordSignInPageState();
 }
