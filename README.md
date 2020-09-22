@@ -1,6 +1,6 @@
 # mobile_mini_project
 
-A flutter test @fundall
+A Clone of fundall payment app for learning purpose
 
 
 ![alt text](https://github.com/Dennis247/fundall/blob/master/lib/ss/screen_shot.jpg)
