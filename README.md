@@ -1,4 +1,4 @@
-# mobile_mini_project
+# ui clone
 
 A Clone of fundall payment app for learning purpose
 
